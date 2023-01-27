@@ -6,7 +6,7 @@ namespace OL_27._01_test1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
